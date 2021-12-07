@@ -1,4 +1,4 @@
-# Con-Way-Game-Of-Life
+# Conway-Game-Of-Life
 Simulation of Conway Game of Life by Minh
 
 Date (of completion): 4/28/2021
