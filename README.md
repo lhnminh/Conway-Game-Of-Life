@@ -6,6 +6,7 @@ Date (of completion): 4/28/2021
 Description:
 
 This program will simulate Conway's Game of Life graphically 
+Read more on Conway's Game of Life here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 
 Game of Life.java
