@@ -41,4 +41,10 @@ State of the project:
     -  Make it look cool. Explore different colors for the dead cells, live cells, and the
     grid
 
+Here are some demo
+
+
+https://user-images.githubusercontent.com/70278752/149823633-336bc2a9-3e05-4f99-ae65-8683ae26eb0e.mp4
+
+
 
